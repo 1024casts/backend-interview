@@ -15,5 +15,5 @@
 
 ## 算法
 
-
-也欢迎大家提issue发布新的面试题，让面试题月来约丰富，提升自己的同时也方便他人。
+## 说明
+也欢迎大家提 [issue](https://github.com/1024casts/backend-interview/issues) 发布新的面试题，让面试题月来约丰富，提升自己的同时也方便他人。
