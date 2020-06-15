@@ -7,6 +7,8 @@
 
 ## Golang
 
+- [Go的int和int64的区别，各占多少位？](https://github.com/1024casts/backend-interview/issues/1)
+
 ## MySQL
 
 ## Redis
