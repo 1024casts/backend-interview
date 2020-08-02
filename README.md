@@ -5,15 +5,21 @@
 通过评论可以对题目进行讨论。
 
 
-## Golang
+## 分类
+
+### Golang
 
 - [Go的int和int64的区别，各占多少位？](https://github.com/1024casts/backend-interview/issues/1)
 
-## MySQL
+### MySQL
 
-## Redis
+### Redis
 
-## 算法
+### 算法
 
-## 说明
+### 说明
 也欢迎大家提 [issue](https://github.com/1024casts/backend-interview/issues) 发布新的面试题，让面试题月来约丰富，提升自己的同时也方便他人。
+
+
+## Reference
+- https://segmentfault.com/a/1190000022195431
